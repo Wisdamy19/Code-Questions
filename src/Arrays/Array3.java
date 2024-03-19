@@ -1,5 +1,6 @@
 package Arrays;
 
+//#3 Ache o maior e menor número de um array. 
 public class Array3 {
     public static void main(String[] args) {
         int[] array = {23, 94, 33, 42, 50, 19};
